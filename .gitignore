@@ -160,7 +160,7 @@ cython_debug/
 #.idea/
 
 
-.our-sign-312610-36119a9d9e84.json
+/our-sign-312610-36119a9d9e84.json
 
 *.json
 !spec/*.json
